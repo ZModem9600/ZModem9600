@@ -2,7 +2,7 @@
 
 #### I began learning to program app stacks through the Lighthouse Labs Web Development bootcamp.
 Post-grad work projects:
-* Layer 2 Ethereun integration into gaming
+* Layer 2 Ethereum integration into gaming
 * Manifold Studios API stack example
 * Exploration and building of browser cloud stack that is deployed
 
